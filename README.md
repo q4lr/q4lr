@@ -1,7 +1,7 @@
 # ✧ YEZR
 
 <div align="center">
-  <img src="https://i.imgur.com/gsgDsMT.jpeg" alt="Yezr Profile" width="300" style="border-radius: 15px"/>
+  <img src="https://imgur.com/a/QMPyjrf" alt="Yezr Profile" width="300" style="border-radius: 15px"/>
   <h3>Developer • PC Enthusiast • Tech Creator</h3>
   <p><em>Mastering technology isn't just about knowing the code, it's about understanding the machine.</em></p>
 </div>
